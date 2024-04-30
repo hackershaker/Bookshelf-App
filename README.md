@@ -19,4 +19,4 @@ Users can search books at Google Books, return list, and see books detail.
 - Write various test
 - Reduce Unnecessary recomposition
 
-[codelab]: https://developer.android.ccom/codelabs/basic-android-kotlin-compose-bookshelf
+[codelab]: https://developer.android.com/codelabs/basic-android-kotlin-compose-bookshelf
