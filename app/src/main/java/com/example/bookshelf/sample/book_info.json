@@ -1,0 +1,112 @@
+{
+  "kind": "books#volume",
+  "id": "Mj2wAwAAQBAJ",
+  "etag": "6E7t8A12gj4",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/Mj2wAwAAQBAJ",
+  "volumeInfo": {
+    "title": "천년의 향기-선덕여왕(역사를 바꾼 인물 인물을 키운 역사_012)",
+    "authors": [
+      "역사 인물 편찬 위원회"
+    ],
+    "publisher": "역사디딤돌",
+    "publishedDate": "2009-06-30",
+    "description": "역사와 인물의 비밀을 찾아 떠나는 통쾌한 모험! 역사를 이끌고 가는 것은 인물이다. 역사를 이로운 길로 이끈 인물이건 나쁜 길로 이끈 인물이건 역사에서 인물이란 빼놓을 수 없는 존재다. 한 인물로 인해 역사의 흐름이 바뀌는 경우도 많고, 역사로 인해 한 인물이 탄생하는 경우도 많다. 그만큼 역사를 제대로 알려면 그 시대의 중요한 인물을 알아야 하고, 인물을 통해 역사를 읽을 수 있는 안목을 키워야 한다. ‘역사를 바꾼 인물 · 인물을 키운 역사’는 어린이는 물론이고 청소년, 그리고 일반인들까지 부담 없이 읽고 폭넓게 공감할 수 있는 내용으로 엮는 것을 최우선 방향으로 잡았다.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "8993930066"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9788993930061"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 189,
+    "printedPageCount": 229,
+    "dimensions": {
+      "height": "18.20 cm",
+      "width": "12.80 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Juvenile Nonfiction / General",
+      "Juvenile Fiction / General"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=Mj2wAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73iM8i_dMrDeVWMBwuO7AvsD3eHSczRkuO5bSpBauQ7RQCXtj4GwJJRYHbl0anX1GSBnwq1cELaxe7SjMqf_Ykduo4219NEVU4hia9w1boisC-avNahDoVkbv5vXKR6enkasB-v&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=Mj2wAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE718dAONGxu13SDbM1SE28R56nOQvbIBcswotFVRY4KVez_KqeTWFOrkUPCZVH2aE6o9tt5Gux2XszZcI-2cDfH8YabyEu2Z8O4JFE3EjHM6pVacut2n9R24WvIPgo6bHILHZEnB&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=Mj2wAwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70FrZhNyXyq6kgjyR-r5Z524CD-N8S4HJIxR_yIsKbQr_u8T22APxP3YDud4XiYoqUpVsP7YbzTb2cK_9TfYPveePEW30dh7FI30d9Rs-7vXW6V08kdMVydyVm6kkA6C4mHU_uM&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=Mj2wAwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70hyUFHlX_cA0aHdPVzTZdVe_NMF66inqXq5TIaqXal08WA64N2pqZrY3WEu77VBbcg0Srojs-fVQ-gUFX1cUBSWbxi8Qc6nrmnpZAtplb4Eq1MbiXAf1A0UQpS4Ntgfq89CH75&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=Mj2wAwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE72srqbWf3k8hMfflMM2ZNwqQNIoN5DHt9PrZlKH590UMuffD4A0zihyxcF7I3oaZEvRQmfQIPduimzwjdKr7NFMmhyW4OeSRhetcZGUdl92XxISLLZWV-O_Q2g0AbluNgC7MEmP&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/publisher/content?id=Mj2wAwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71AJxxNeJdml8Boe8C6Llds4tWlThNIeDNWicPZvA6qj8_g7ZbwsCXl7ItEPbcDSY9tkYgZF2mS26WxOKduxVey7K3f3qYWqBH5HDv59uQy2sDSKKHUX0nJJkeMGLzWNuhnXzxd&source=gbs_api"
+    },
+    "language": "ko",
+    "previewLink": "http://books.google.co.kr/books?id=Mj2wAwAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Mj2wAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Mj2wAwAAQBAJ"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "4"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "KR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 5950,
+      "currencyCode": "KRW"
+    },
+    "retailPrice": {
+      "amount": 5355,
+      "currencyCode": "KRW"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Mj2wAwAAQBAJ&rdid=book-Mj2wAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 5950000000,
+          "currencyCode": "KRW"
+        },
+        "retailPrice": {
+          "amountInMicros": 5355000000,
+          "currencyCode": "KRW"
+        }
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "KR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.kr/books/download/%EC%B2%9C%EB%85%84%EC%9D%98_%ED%96%A5%EA%B8%B0_%EC%84%A0%EB%8D%95%EC%97%AC%EC%99%95_%EC%97%AD%EC%82%AC%EB%A5%BC-sample-epub.acsm?id=Mj2wAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.kr/books/download/%EC%B2%9C%EB%85%84%EC%9D%98_%ED%96%A5%EA%B8%B0_%EC%84%A0%EB%8D%95%EC%97%AC%EC%99%95_%EC%97%AD%EC%82%AC%EB%A5%BC-sample-pdf.acsm?id=Mj2wAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Mj2wAwAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

@@ -1,0 +1,839 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2304,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "wnbYAQAACAAJ",
+      "etag": "z/ofcbGTv9I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wnbYAQAACAAJ",
+      "volumeInfo": {
+        "title": "역사야 세트(전9권)",
+        "authors": [
+          "감돌역사문화연구회"
+        ],
+        "publishedDate": "2012-09-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8997985000"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788997985005"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ko",
+        "previewLink": "http://books.google.co.kr/books?id=wnbYAQAACAAJ&dq=%EC%97%AD%EC%82%AC&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.kr/books?id=wnbYAQAACAAJ&dq=%EC%97%AD%EC%82%AC&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%EC%97%AD%EC%82%AC%EC%95%BC_%EC%84%B8%ED%8A%B8_%EC%A0%849%EA%B6%8C.html?hl=&id=wnbYAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "KR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wnbYAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Mj2wAwAAQBAJ",
+      "etag": "meGZp1kbB5M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Mj2wAwAAQBAJ",
+      "volumeInfo": {
+        "title": "천년의 향기-선덕여왕(역사를 바꾼 인물 인물을 키운 역사_012)",
+        "authors": [
+          "역사 인물 편찬 위원회"
+        ],
+        "publisher": "역사디딤돌",
+        "publishedDate": "2009-06-30",
+        "description": "역사와 인물의 비밀을 찾아 떠나는 통쾌한 모험! 역사를 이끌고 가는 것은 인물이다. 역사를 이로운 길로 이끈 인물이건 나쁜 길로 이끈 인물이건 역사에서 인물이란 빼놓을 수 없는 존재다. 한 인물로 인해 역사의 흐름이 바뀌는 경우도 많고, 역사로 인해 한 인물이 탄생하는 경우도 많다. 그만큼 역사를 제대로 알려면 그 시대의 중요한 인물을 알아야 하고, 인물을 통해 역사를 읽을 수 있는 안목을 키워야 한다. ‘역사를 바꾼 인물 · 인물을 키운 역사’는 어린이는 물론이고 청소년, 그리고 일반인들까지 부담 없이 읽고 폭넓게 공감할 수 있는 내용으로 엮는 것을 최우선 방향으로 잡았다.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788993930061"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8993930066"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 189,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Mj2wAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Mj2wAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ko",
+        "previewLink": "http://books.google.co.kr/books?id=Mj2wAwAAQBAJ&printsec=frontcover&dq=%EC%97%AD%EC%82%AC&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Mj2wAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Mj2wAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "KR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5950,
+          "currencyCode": "KRW"
+        },
+        "retailPrice": {
+          "amount": 5355,
+          "currencyCode": "KRW"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Mj2wAwAAQBAJ&rdid=book-Mj2wAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5950000000,
+              "currencyCode": "KRW"
+            },
+            "retailPrice": {
+              "amountInMicros": 5355000000,
+              "currencyCode": "KRW"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "KR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.kr/books/download/%EC%B2%9C%EB%85%84%EC%9D%98_%ED%96%A5%EA%B8%B0_%EC%84%A0%EB%8D%95%EC%97%AC%EC%99%95_%EC%97%AD%EC%82%AC%EB%A5%BC-sample-epub.acsm?id=Mj2wAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.kr/books/download/%EC%B2%9C%EB%85%84%EC%9D%98_%ED%96%A5%EA%B8%B0_%EC%84%A0%EB%8D%95%EC%97%AC%EC%99%95_%EC%97%AD%EC%82%AC%EB%A5%BC-sample-pdf.acsm?id=Mj2wAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Mj2wAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "역사와 인물의 비밀을 찾아 떠나는 통쾌한 모험! 역사를 이끌고 가는 것은 인물이다. 역사를 이로운 길로 이끈 인물이건 나쁜 길로 이끈 인물이건 역사에서 인물이란 빼놓을 수 없는 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yCObDwAAQBAJ",
+      "etag": "VBeEvyz94DE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yCObDwAAQBAJ",
+      "volumeInfo": {
+        "title": "3·1운동 100년 5 사상과 문화",
+        "authors": [
+          "한국역사연구회 3·1운동100주년기획위원회 "
+        ],
+        "publisher": "휴머니스트",
+        "publishedDate": "2019-06-03",
+        "description": "3·1운동 100주년, 새로운 역사학의 길을 찾다 3·1운동은 거리의 저항 축제였다. 전국 방방곡곡 공원과 장터를 메운 사람들은 태극기를 손에 들고 대로와 골목을 누비며 독립만세를 외쳤다. 그로부터 100년 뒤, 우리는 거리에서 민주주의의 진전과 한반도 평화의 길을 여는 새로운 역사를 마주했다. 역사학 또한 전환의 시대를 맞고 있다. 오래도록 근대사를 지배해온 민족 대 반민족, 수탈 대 저항이라는 전통적인 이분법을 해체하고 일제 시기를 재해석하려는 움직임이 활발하다. 3·1운동 100주년을 맞아 내놓는 다섯 권의 총서는 새로운 역사학의 흐름을 반영해 반일 민족운동이자 역사의 거대한 봉우리와 같은 ‘사건’으로만 기억하는 3·1운동을 메타역사적 관점에서 읽고, 다양한 주체와 시선으로 재현하고자 했다. 이로써 3·1운동에 대한 기억과 기념을 넘어 역사학의 미래를 전망하게 된다.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791160802658"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 556,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yCObDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yCObDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ko",
+        "previewLink": "http://books.google.co.kr/books?id=yCObDwAAQBAJ&printsec=frontcover&dq=%EC%97%AD%EC%82%AC&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yCObDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yCObDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "KR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 15400,
+          "currencyCode": "KRW"
+        },
+        "retailPrice": {
+          "amount": 13860,
+          "currencyCode": "KRW"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yCObDwAAQBAJ&rdid=book-yCObDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15400000000,
+              "currencyCode": "KRW"
+            },
+            "retailPrice": {
+              "amountInMicros": 13860000000,
+              "currencyCode": "KRW"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "KR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.kr/books/download/3_1%EC%9A%B4%EB%8F%99_100%EB%85%84_5_%EC%82%AC%EC%83%81%EA%B3%BC_%EB%AC%B8%ED%99%94-sample-epub.acsm?id=yCObDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.kr/books/download/3_1%EC%9A%B4%EB%8F%99_100%EB%85%84_5_%EC%82%AC%EC%83%81%EA%B3%BC_%EB%AC%B8%ED%99%94-sample-pdf.acsm?id=yCObDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yCObDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "3·1운동 100주년, 새로운 역사학의 길을 찾다 3·1운동은 거리의 저항 축제였다. 전국 방방곡곡 공원과 장터를 메운 사람들은 태극기를 손에 들고 대로와 골목을 누비며 독립만세를 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pdPACwAAQBAJ",
+      "etag": "DTqgaTPeDys",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pdPACwAAQBAJ",
+      "volumeInfo": {
+        "title": "재미있게 읽는 그날의 역사 7월 24일",
+        "authors": [
+          "이종하"
+        ],
+        "publisher": "디오네",
+        "publishedDate": "2016-03-17",
+        "description": "매일매일 일어나는 사건이 역사가 된다 그날의 역사를 그날그날 읽어 보며 교양을 쌓는 책 역사란 무엇일까? 우리는 왜 역사를 알아야 할까? 왜 ‘역사를 모르는 민족에게 내일은 없다’라고 말하는 것일까? 일찍이 토인비는 역사를 도전과 응전의 개념으로 설명한 바 있다. 그것은 인류사 전체를 아우르는 커다란 카테고리를 설명하기에는 더없이 좋은 개념이다. 그러나 미시적인 문제로 들어가면 이야기가 달라진다. 이집트에서 태양력과 기하학, 천문학 그리고 건축술이 발달한 것은 나일 강의 범람에 따른 인간의 도전과 응전으로 설명될 수 있다. 하지만 시대의 흐름에 발맞추거나 혹은 앞서 나가는 예술사조의 흐름은 토인비의 논리만으로는 설명하기 어렵다. 역사의 사전적 의미는 ‘인류 사회의 변천과 흥망의 과정, 또는 그 기록’ ‘한 사물이나 사실이 존재해 온 연혁’ ‘자연 현상이 변하여 온 자취’이다. 즉 이미 지나간 시간 속에서 존재하는 사실, 혹은 그 흐름을 의미한다. 역사 자체는 관념 속에 존재한다는 것이다. 그런 역사가 현대인의 삶에 구체적으로 구현되는 것은 기록을 통해서이다. 기록과 흔적으로 존재하는 역사는 단 한순간도 현재와 단절된 적이 없으며, 눈앞에 펼쳐진 과거의 기록은 현재를 해석하는 도구이자 미래를 미리 보여 주는 창이다. 이것이 우리가 역사를 알아야 하며, 지구상의 모든 학교에서 반드시 역사를 가르치는 이유이다. 역사를 바꾼 사건들, 유명 인물의 출생과 사망, 인류의 문화유산과 정신세계에 대한 방대한 기록 『7월의 모든 역사 - 한국사』는 매일매일 일어난 사건이 역사가 된다는 사실에 기초하여 7월 1일부터 7월 31일까지의 중요 사건들을 날짜별로 기록하였다. 사건의 중요도에 따라 서술 분량을 달리했으며, 한국사적으로 중요한 모든 사건들을 최대한 담으려 노력했다. 단순한 사실(fact)뿐만 아니라 사건의 원 인과 과정 및 영향에 대한 모든 과정들을 흥미진진하게 전하고 있다. 이 책에 나와 있는 날짜는 태양력을 기준으로 하였으며 음력으로 기록된 사건이나 고대의 기록은 모두 현재 사용하는 태양력을 기준으로 환산하였다. 고대나 중세의 사건 가운데 날짜가 불명확한 것은 학계 의 정설과 다수설에 따라 기술하였다. 한 시대를 이끌어 갔던 유명 인물의 출생과 사망, 우리의 문화유산, 시대를 뒤흔든 역사적 사건 등 달력에는 기록되지 않은 지난 역사 속 7월의 오늘이 이 책 한 권에 펼쳐진다. 오늘 날짜의 역사가 흥미진진하게 펼쳐진다 인류의 역사는 하루아침에 이루어진 것이 아니다. 지난 역사 속 7월의 오늘, 우리나라에는 과연 무슨 일이 있었을까? 대한민국에서 검찰과 언론이 정권과 유착되는 순간, 정의는 사라진다. 노동 운동을 하기 위해 허명숙이라는 이름을 빌려 위장 취업했던 서울대 의류학과 4학년 권인숙은 ‘주민등록증 위조’ 혐의로 부천 경찰서에 연행되었다. 거기에서 그녀는 형사 문귀동에게 두 차례에 걸쳐 끔찍한 성고문을 당하였다. 권인숙은 자신과 같은 희생자가 생기지 말아야 한다는 생각에 문귀동을 강제 추행 혐의로 인천지검에 고소하였다. 하지만 정권의 지시를 받은 검찰과 언론은 문귀동에게 면죄부를 준다. 1986년 7월 16일 검찰은 ‘성모욕은 없었다’는 수사 결과를 발표하고, 언론 또한 ‘성적 모욕 없고 폭언ㆍ폭행만 했다’는 식으로 제목으로 뽑아 검찰의 주장을 사실로 굳혀 주었다. 이 사건을 통해 당시 권력의 수족이 된 검찰과 권력의 나팔수가 된 언론의 추한 모습이 극명하게 드러났다. 전쟁은 피아(彼我)의 경계를 허문다. ‘노근리 학살 사건’이 그 한 예가 될 수 있다. 한국전쟁이 발발한 지 한 달이 지난 1950년 7월 26일, 충북 영동군 황간면 노근리 경부선 철로 위에서 피난 중이던 주민들에게 미군들이 무차별 사격을 가해 300여 명이 살해되는 사건이 발생하였다. 하지만 ‘전쟁 중’이라는 이유로 유가족들은 소리 내어 울 수가 없었다. 사건의 실체가 밝혀지기 시작한 것은 1999년 9월 AP 통신 기자 최상훈과 멘도자 등이 탐사 보도를 하면서부터였다. 그리고 2001년 1월 12일 노근리 사건 한ㆍ미 양국 조사단은 공동 발표를 통해 노근리 사건이 ‘미군에 의한 양민 학살’이라는 사건 실체를 인정하였다. 사건이 발생한 지 51년 만이었다. 그제야 유가족들은 먼저 간 가족들의 한을 위로하는 제사를 노근리 학살이 일어난 쌍굴에서 지내고 있다. 이 책은 우리나라 주요 인물들의 삶을 비롯하여 정치ㆍ경제ㆍ문화ㆍ예술 등 전 영역에서 일어난 개별적인 사건들을 한데서 볼 수 있는 책이다. 매일매일 한국사의 흐름을 뒤바꾼 역사적 사실들을 기술하여 특정 시대와 역사에 대한 궁금증을 한눈에 파악할 수 있도록 했다. 7월 24일 머리말 한국사 고구려의 을지문덕, 살수대첩을 거두다 | 미국 상선 제너럴셔먼호, 대동강에 침입하다 | 경성 부민관 폭파 사건 발생 | 이완용, 이토 히로부미와 한일신협약에 조인하다 | 이승만, 초대 대통령으로 취임하다 세계사 일본 소설가 아쿠타가와 류노스케 자살하다 | 닉슨과 흐루시초프, 부엌 논쟁을 벌이다 | 프로 골퍼 타이거 우즈, 최연소 그랜드슬램 달성",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791157743681"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 42,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pdPACwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pdPACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ko",
+        "previewLink": "http://books.google.co.kr/books?id=pdPACwAAQBAJ&printsec=frontcover&dq=%EC%97%AD%EC%82%AC&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pdPACwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pdPACwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "KR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 300,
+          "currencyCode": "KRW"
+        },
+        "retailPrice": {
+          "amount": 270,
+          "currencyCode": "KRW"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pdPACwAAQBAJ&rdid=book-pdPACwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 300000000,
+              "currencyCode": "KRW"
+            },
+            "retailPrice": {
+              "amountInMicros": 270000000,
+              "currencyCode": "KRW"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "KR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.kr/books/download/%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C_%EC%9D%BD%EB%8A%94_%EA%B7%B8%EB%82%A0%EC%9D%98_%EC%97%AD%EC%82%AC_7-sample-epub.acsm?id=pdPACwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.kr/books/download/%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C_%EC%9D%BD%EB%8A%94_%EA%B7%B8%EB%82%A0%EC%9D%98_%EC%97%AD%EC%82%AC_7-sample-pdf.acsm?id=pdPACwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pdPACwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "매일매일 일어나는 사건이 역사가 된다 그날의 역사를 그날그날 읽어 보며 교양을 쌓는 책 역사란 무엇일까? 우리는 왜 역사를 알아야 할까? 왜 ‘역사를 모르는 민족에게 내일은 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ms_ACwAAQBAJ",
+      "etag": "APGA3yTOjkE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ms_ACwAAQBAJ",
+      "volumeInfo": {
+        "title": "재미있게 읽는 그날의 역사 7월 4일",
+        "authors": [
+          "이종하"
+        ],
+        "publisher": "디오네",
+        "publishedDate": "2016-03-17",
+        "description": "매일매일 일어나는 사건이 역사가 된다 그날의 역사를 그날그날 읽어 보며 교양을 쌓는 책 역사란 무엇일까? 우리는 왜 역사를 알아야 할까? 왜 ‘역사를 모르는 민족에게 내일은 없다’라고 말하는 것일까? 일찍이 토인비는 역사를 도전과 응전의 개념으로 설명한 바 있다. 그것은 인류사 전체를 아우르는 커다란 카테고리를 설명하기에는 더없이 좋은 개념이다. 그러나 미시적인 문제로 들어가면 이야기가 달라진다. 이집트에서 태양력과 기하학, 천문학 그리고 건축술이 발달한 것은 나일 강의 범람에 따른 인간의 도전과 응전으로 설명될 수 있다. 하지만 시대의 흐름에 발맞추거나 혹은 앞서 나가는 예술사조의 흐름은 토인비의 논리만으로는 설명하기 어렵다. 역사의 사전적 의미는 ‘인류 사회의 변천과 흥망의 과정, 또는 그 기록’ ‘한 사물이나 사실이 존재해 온 연혁’ ‘자연 현상이 변하여 온 자취’이다. 즉 이미 지나간 시간 속에서 존재하는 사실, 혹은 그 흐름을 의미한다. 역사 자체는 관념 속에 존재한다는 것이다. 그런 역사가 현대인의 삶에 구체적으로 구현되는 것은 기록을 통해서이다. 기록과 흔적으로 존재하는 역사는 단 한순간도 현재와 단절된 적이 없으며, 눈앞에 펼쳐진 과거의 기록은 현재를 해석하는 도구이자 미래를 미리 보여 주는 창이다. 이것이 우리가 역사를 알아야 하며, 지구상의 모든 학교에서 반드시 역사를 가르치는 이유이다. 역사를 바꾼 사건들, 유명 인물의 출생과 사망, 인류의 문화유산과 정신세계에 대한 방대한 기록 『7월의 모든 역사 - 한국사』는 매일매일 일어난 사건이 역사가 된다는 사실에 기초하여 7월 1일부터 7월 31일까지의 중요 사건들을 날짜별로 기록하였다. 사건의 중요도에 따라 서술 분량을 달리했으며, 한국사적으로 중요한 모든 사건들을 최대한 담으려 노력했다. 단순한 사실(fact)뿐만 아니라 사건의 원 인과 과정 및 영향에 대한 모든 과정들을 흥미진진하게 전하고 있다. 이 책에 나와 있는 날짜는 태양력을 기준으로 하였으며 음력으로 기록된 사건이나 고대의 기록은 모두 현재 사용하는 태양력을 기준으로 환산하였다. 고대나 중세의 사건 가운데 날짜가 불명확한 것은 학계 의 정설과 다수설에 따라 기술하였다. 한 시대를 이끌어 갔던 유명 인물의 출생과 사망, 우리의 문화유산, 시대를 뒤흔든 역사적 사건 등 달력에는 기록되지 않은 지난 역사 속 7월의 오늘이 이 책 한 권에 펼쳐진다. 오늘 날짜의 역사가 흥미진진하게 펼쳐진다 인류의 역사는 하루아침에 이루어진 것이 아니다. 지난 역사 속 7월의 오늘, 우리나라에는 과연 무슨 일이 있었을까? 대한민국에서 검찰과 언론이 정권과 유착되는 순간, 정의는 사라진다. 노동 운동을 하기 위해 허명숙이라는 이름을 빌려 위장 취업했던 서울대 의류학과 4학년 권인숙은 ‘주민등록증 위조’ 혐의로 부천 경찰서에 연행되었다. 거기에서 그녀는 형사 문귀동에게 두 차례에 걸쳐 끔찍한 성고문을 당하였다. 권인숙은 자신과 같은 희생자가 생기지 말아야 한다는 생각에 문귀동을 강제 추행 혐의로 인천지검에 고소하였다. 하지만 정권의 지시를 받은 검찰과 언론은 문귀동에게 면죄부를 준다. 1986년 7월 16일 검찰은 ‘성모욕은 없었다’는 수사 결과를 발표하고, 언론 또한 ‘성적 모욕 없고 폭언ㆍ폭행만 했다’는 식으로 제목으로 뽑아 검찰의 주장을 사실로 굳혀 주었다. 이 사건을 통해 당시 권력의 수족이 된 검찰과 권력의 나팔수가 된 언론의 추한 모습이 극명하게 드러났다. 전쟁은 피아(彼我)의 경계를 허문다. ‘노근리 학살 사건’이 그 한 예가 될 수 있다. 한국전쟁이 발발한 지 한 달이 지난 1950년 7월 26일, 충북 영동군 황간면 노근리 경부선 철로 위에서 피난 중이던 주민들에게 미군들이 무차별 사격을 가해 300여 명이 살해되는 사건이 발생하였다. 하지만 ‘전쟁 중’이라는 이유로 유가족들은 소리 내어 울 수가 없었다. 사건의 실체가 밝혀지기 시작한 것은 1999년 9월 AP 통신 기자 최상훈과 멘도자 등이 탐사 보도를 하면서부터였다. 그리고 2001년 1월 12일 노근리 사건 한ㆍ미 양국 조사단은 공동 발표를 통해 노근리 사건이 ‘미군에 의한 양민 학살’이라는 사건 실체를 인정하였다. 사건이 발생한 지 51년 만이었다. 그제야 유가족들은 먼저 간 가족들의 한을 위로하는 제사를 노근리 학살이 일어난 쌍굴에서 지내고 있다. 이 책은 우리나라 주요 인물들의 삶을 비롯하여 정치ㆍ경제ㆍ문화ㆍ예술 등 전 영역에서 일어난 개별적인 사건들을 한데서 볼 수 있는 책이다. 매일매일 한국사의 흐름을 뒤바꾼 역사적 사실들을 기술하여 특정 시대와 역사에 대한 궁금증을 한눈에 파악할 수 있도록 했다. 7월 4일 머리말 한국사 남북한, 7·4 남북 공동성명을 발표하다 | 아랍계로 위장한 남파 간첩 정수일 구속 | 을축년 대홍수 발생 | 제3차, 제4차 개헌안 발췌 통과 세계사 이슬람의 살라딘, 하틴 전투에서 승리하다 | 미국, 필라델피아에서 독립 선언을 하다 | 필리핀, 미국에게서 독립",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791157743483"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 41,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ms_ACwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ms_ACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ko",
+        "previewLink": "http://books.google.co.kr/books?id=ms_ACwAAQBAJ&printsec=frontcover&dq=%EC%97%AD%EC%82%AC&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ms_ACwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ms_ACwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "KR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 300,
+          "currencyCode": "KRW"
+        },
+        "retailPrice": {
+          "amount": 270,
+          "currencyCode": "KRW"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ms_ACwAAQBAJ&rdid=book-ms_ACwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 300000000,
+              "currencyCode": "KRW"
+            },
+            "retailPrice": {
+              "amountInMicros": 270000000,
+              "currencyCode": "KRW"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "KR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.kr/books/download/%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C_%EC%9D%BD%EB%8A%94_%EA%B7%B8%EB%82%A0%EC%9D%98_%EC%97%AD%EC%82%AC_7-sample-epub.acsm?id=ms_ACwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.kr/books/download/%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C_%EC%9D%BD%EB%8A%94_%EA%B7%B8%EB%82%A0%EC%9D%98_%EC%97%AD%EC%82%AC_7-sample-pdf.acsm?id=ms_ACwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ms_ACwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "매일매일 일어나는 사건이 역사가 된다 그날의 역사를 그날그날 읽어 보며 교양을 쌓는 책 역사란 무엇일까? 우리는 왜 역사를 알아야 할까? 왜 ‘역사를 모르는 민족에게 내일은 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pgnXCwAAQBAJ",
+      "etag": "ZprOga92uLA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pgnXCwAAQBAJ",
+      "volumeInfo": {
+        "title": "재미있게 읽는 그날의 역사 8월 19일",
+        "authors": [
+          "이종하"
+        ],
+        "publisher": "디오네",
+        "publishedDate": "2016-03-30",
+        "description": "매일매일 일어나는 사건이 역사가 된다 그날의 역사를 그날그날 읽어 보며 교양을 쌓는 책 역사란 무엇일까? 우리는 왜 역사를 알아야 할까? 왜 ‘역사를 모르는 민족에게 내일은 없다’라고 말하는 것일까? 일찍이 토인비는 역사를 도전과 응전의 개념으로 설명한 바 있다. 그것은 인류사 전체를 아우르는 커다란 카테고리를 설명하기에는 더없이 좋은 개념이다. 그러나 미시적인 문제로 들어가면 이야기가 달라진다. 이집트에서 태양력과 기하학, 천문학 그리고 건축술이 발달한 것은 나일 강의 범람에 따른 인간의 도전과 응전으로 설명될 수 있다. 하지만 시대의 흐름에 발맞추거나 혹은 앞서 나가는 예술사조의 흐름은 토인비의 논리만으로는 설명하기 어렵다. 역사의 사전적 의미는 ‘인류 사회의 변천과 흥망의 과정, 또는 그 기록’ ‘한 사물이나 사실이 존재해 온 연혁’ ‘자연 현상이 변하여 온 자취’이다. 즉 이미 지나간 시간 속에서 존재하는 사실, 혹은 그 흐름을 의미한다. 역사 자체는 관념 속에 존재한다는 것이다. 그런 역사가 현대인의 삶에 구체적으로 구현되는 것은 기록을 통해서이다. 기록과 흔적으로 존재하는 역사는 단 한순간도 현재와 단절된 적이 없으며, 눈앞에 펼쳐진 과거의 기록은 현재를 해석하는 도구이자 미래를 미리 보여 주는 창이다. 이것이 우리가 역사를 알아야 하며, 지구상의 모든 학교에서 반드시 역사를 가르치는 이유이다. 역사를 바꾼 사건들, 유명 인물의 출생과 사망, 인류의 문화유산과 정신세계에 대한 방대한 기록 매일매일 일어난 사건이 역사가 된다는 사실에 기초하여 8월 1일부터 8월 31일까지의 중요 사건들을 날짜별로 기록하였다. 사건의 중요도에 따라 서술 분량을 달리했으며, 한국사적으로 중요한 모든 사건들을 최대한 담으려 노력했다. 단순한 사실(fact)뿐만 아니라 사건의 원 인과 과정 및 영향에 대한 모든 과정들을 흥미진진하게 전하고 있다. 이 책에 나와 있는 날짜는 태양력을 기준으로 하였으며 음력으로 기록된 사건이나 고대의 기록은 모두 현재 사용하는 태양력을 기준으로 환산하였다. 고대나 중세의 사건 가운데 날짜가 불명확한 것은 학계의 정설과 다수설에 따라 기술하였다. 한 시대를 이끌어 갔던 유명 인물의 출생과 사망, 인류의 문화유산, 시대를 뒤흔든 역사적 사건 등 달력에는 기록되지 않은 지난 역사 속 오늘이 이 책 한 권에 펼쳐진다. 오늘 날짜의 역사가 흥미진진하게 펼쳐진다 인류의 역사는 하루아침에 이루어진 것이 아니다. 지난 역사 속 6월의 오늘, 세계에서는 과연 무슨 일이 있었을까? 군대를 잃는 것은 나라를 잃는 것이나 마찬가지이다. 1907년 8월 1일, 대한제국의 군대는 일제에 의해 강제로 해산되었다. 순종의 군대 해산 조칙이 낭독된 동대문 훈련원에 모인 대한제국의 군인들을 계급장이 뜯겨나가는 치욕을 겪어야 했다. 군대 해산을 받아들일 수 없었던 군인들이 한성에서 봉기하여 일본군과 시가전을 벌였지만 하루 만에 진압당하고 말았다. 그러나 나중에 밝혀진 바에 따르면 순종의 군대 해산 조칙은 대한제국 황실의 뜻이 아니었다. 군대 해산의 법적 근거를 만들기 위해 일본 통감 이토 히로부미와 대한제국 내각총리대신 이완용이 한일 신협약 당시 교환한 비밀 각서에 의한 것이었다. 권력에 대한 욕심은 형제간의 도리마저 깨뜨리고 만다. 조선 태조 때의 개국공신인 정도전은 제8왕자인 이방석을 세자로 세우는 일을 지지하였다. 재상 중심의 정치를 꿈꾸는 정도전에게 군주가 나라를 주도적으로 이끌어나가야 한다고 생각하는 이방원은 걸림돌이었기 때문이다. 이 일로 정도전에게 앙심을 품은 태조의 다섯 번째 아들 이방원은 1398년 8월 26일에 이방원은 정도전에게 누명을 씌워 정도전은 물론 그의 지지 세력까지 모두 제거하였다. 게다가 세자인 이방석과 그 형인 이방번까지 무참히 살해하였다. 이것이 바로 ‘제1차 왕자의 난’이었다. 이 책은 세계 주요 인물들의 삶을 비롯하여 정치·경제·문화 예술 등 전 영역에서 일어난 개별적인 사건들을 한가운데서 볼 수 있는 책이다. 하루하루 세계사의 흐름을 뒤바꾼 역사적 사건들을 기술하여 특정 시대와 역사에 대한 궁금증을 한눈에 파악할 수 있다. 8월 19일 머리말 한국사 거란의 침입을 물리친 명장 강감찬이 세상을 떠나다 | 장면, 제2공화국 총리에 피선 | 삼별초, 강화도를 떠나 진도에 거점을 마련하다 | 주부 검사 현희, 한국 펜싱 사상 첫 세계 선수권 금메달 획득 세계사 소련의 보수 세력, 고르바초프의 개혁에 대항하여 쿠데타를 일으키다 | 평화 집회 범유럽 피크닉이 열리다 | 프랑스 다게르의 사진술 발명이 공식 선언되다\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791157743964"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pgnXCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pgnXCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ko",
+        "previewLink": "http://books.google.co.kr/books?id=pgnXCwAAQBAJ&printsec=frontcover&dq=%EC%97%AD%EC%82%AC&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pgnXCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pgnXCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "KR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 300,
+          "currencyCode": "KRW"
+        },
+        "retailPrice": {
+          "amount": 270,
+          "currencyCode": "KRW"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pgnXCwAAQBAJ&rdid=book-pgnXCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 300000000,
+              "currencyCode": "KRW"
+            },
+            "retailPrice": {
+              "amountInMicros": 270000000,
+              "currencyCode": "KRW"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "KR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.kr/books/download/%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C_%EC%9D%BD%EB%8A%94_%EA%B7%B8%EB%82%A0%EC%9D%98_%EC%97%AD%EC%82%AC_8-sample-epub.acsm?id=pgnXCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.kr/books/download/%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C_%EC%9D%BD%EB%8A%94_%EA%B7%B8%EB%82%A0%EC%9D%98_%EC%97%AD%EC%82%AC_8-sample-pdf.acsm?id=pgnXCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pgnXCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "매일매일 일어나는 사건이 역사가 된다 그날의 역사를 그날그날 읽어 보며 교양을 쌓는 책 역사란 무엇일까? 우리는 왜 역사를 알아야 할까? 왜 ‘역사를 모르는 민족에게 내일은 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fdLACwAAQBAJ",
+      "etag": "OueGKCUa/Zc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fdLACwAAQBAJ",
+      "volumeInfo": {
+        "title": "재미있게 읽는 그날의 역사 7월 16일",
+        "authors": [
+          "이종하"
+        ],
+        "publisher": "디오네",
+        "publishedDate": "2016-03-17",
+        "description": "매일매일 일어나는 사건이 역사가 된다 그날의 역사를 그날그날 읽어 보며 교양을 쌓는 책 역사란 무엇일까? 우리는 왜 역사를 알아야 할까? 왜 ‘역사를 모르는 민족에게 내일은 없다’라고 말하는 것일까? 일찍이 토인비는 역사를 도전과 응전의 개념으로 설명한 바 있다. 그것은 인류사 전체를 아우르는 커다란 카테고리를 설명하기에는 더없이 좋은 개념이다. 그러나 미시적인 문제로 들어가면 이야기가 달라진다. 이집트에서 태양력과 기하학, 천문학 그리고 건축술이 발달한 것은 나일 강의 범람에 따른 인간의 도전과 응전으로 설명될 수 있다. 하지만 시대의 흐름에 발맞추거나 혹은 앞서 나가는 예술사조의 흐름은 토인비의 논리만으로는 설명하기 어렵다. 역사의 사전적 의미는 ‘인류 사회의 변천과 흥망의 과정, 또는 그 기록’ ‘한 사물이나 사실이 존재해 온 연혁’ ‘자연 현상이 변하여 온 자취’이다. 즉 이미 지나간 시간 속에서 존재하는 사실, 혹은 그 흐름을 의미한다. 역사 자체는 관념 속에 존재한다는 것이다. 그런 역사가 현대인의 삶에 구체적으로 구현되는 것은 기록을 통해서이다. 기록과 흔적으로 존재하는 역사는 단 한순간도 현재와 단절된 적이 없으며, 눈앞에 펼쳐진 과거의 기록은 현재를 해석하는 도구이자 미래를 미리 보여 주는 창이다. 이것이 우리가 역사를 알아야 하며, 지구상의 모든 학교에서 반드시 역사를 가르치는 이유이다. 역사를 바꾼 사건들, 유명 인물의 출생과 사망, 인류의 문화유산과 정신세계에 대한 방대한 기록 『7월의 모든 역사 - 한국사』는 매일매일 일어난 사건이 역사가 된다는 사실에 기초하여 7월 1일부터 7월 31일까지의 중요 사건들을 날짜별로 기록하였다. 사건의 중요도에 따라 서술 분량을 달리했으며, 한국사적으로 중요한 모든 사건들을 최대한 담으려 노력했다. 단순한 사실(fact)뿐만 아니라 사건의 원 인과 과정 및 영향에 대한 모든 과정들을 흥미진진하게 전하고 있다. 이 책에 나와 있는 날짜는 태양력을 기준으로 하였으며 음력으로 기록된 사건이나 고대의 기록은 모두 현재 사용하는 태양력을 기준으로 환산하였다. 고대나 중세의 사건 가운데 날짜가 불명확한 것은 학계 의 정설과 다수설에 따라 기술하였다. 한 시대를 이끌어 갔던 유명 인물의 출생과 사망, 우리의 문화유산, 시대를 뒤흔든 역사적 사건 등 달력에는 기록되지 않은 지난 역사 속 7월의 오늘이 이 책 한 권에 펼쳐진다. 오늘 날짜의 역사가 흥미진진하게 펼쳐진다 인류의 역사는 하루아침에 이루어진 것이 아니다. 지난 역사 속 7월의 오늘, 우리나라에는 과연 무슨 일이 있었을까? 대한민국에서 검찰과 언론이 정권과 유착되는 순간, 정의는 사라진다. 노동 운동을 하기 위해 허명숙이라는 이름을 빌려 위장 취업했던 서울대 의류학과 4학년 권인숙은 ‘주민등록증 위조’ 혐의로 부천 경찰서에 연행되었다. 거기에서 그녀는 형사 문귀동에게 두 차례에 걸쳐 끔찍한 성고문을 당하였다. 권인숙은 자신과 같은 희생자가 생기지 말아야 한다는 생각에 문귀동을 강제 추행 혐의로 인천지검에 고소하였다. 하지만 정권의 지시를 받은 검찰과 언론은 문귀동에게 면죄부를 준다. 1986년 7월 16일 검찰은 ‘성모욕은 없었다’는 수사 결과를 발표하고, 언론 또한 ‘성적 모욕 없고 폭언ㆍ폭행만 했다’는 식으로 제목으로 뽑아 검찰의 주장을 사실로 굳혀 주었다. 이 사건을 통해 당시 권력의 수족이 된 검찰과 권력의 나팔수가 된 언론의 추한 모습이 극명하게 드러났다. 전쟁은 피아(彼我)의 경계를 허문다. ‘노근리 학살 사건’이 그 한 예가 될 수 있다. 한국전쟁이 발발한 지 한 달이 지난 1950년 7월 26일, 충북 영동군 황간면 노근리 경부선 철로 위에서 피난 중이던 주민들에게 미군들이 무차별 사격을 가해 300여 명이 살해되는 사건이 발생하였다. 하지만 ‘전쟁 중’이라는 이유로 유가족들은 소리 내어 울 수가 없었다. 사건의 실체가 밝혀지기 시작한 것은 1999년 9월 AP 통신 기자 최상훈과 멘도자 등이 탐사 보도를 하면서부터였다. 그리고 2001년 1월 12일 노근리 사건 한ㆍ미 양국 조사단은 공동 발표를 통해 노근리 사건이 ‘미군에 의한 양민 학살’이라는 사건 실체를 인정하였다. 사건이 발생한 지 51년 만이었다. 그제야 유가족들은 먼저 간 가족들의 한을 위로하는 제사를 노근리 학살이 일어난 쌍굴에서 지내고 있다. 이 책은 우리나라 주요 인물들의 삶을 비롯하여 정치ㆍ경제ㆍ문화ㆍ예술 등 전 영역에서 일어난 개별적인 사건들을 한데서 볼 수 있는 책이다. 매일매일 한국사의 흐름을 뒤바꾼 역사적 사실들을 기술하여 특정 시대와 역사에 대한 궁금증을 한눈에 파악할 수 있도록 했다. 7월 16일 머리말 한국사 검찰과 언론, 부천 경찰서 성고문 사건을 날조하다 | 조선의 삼도수군통제사 원균, 칠천량 해전에서 전사하다 | 탈옥수 신창원, 순천에서 검거 세계사 미국, 원자폭탄 실험에 성공하다 | 무함마드의 헤지라가 이루어지다 | 프랑스와 이탈리아를 연결하는 몽블랑 터널 개통 | 덩샤오핑, 부주석으로 복귀 | 러시아의 마지막 황제 니콜라이 2세 처형",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791157743605"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 41,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fdLACwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fdLACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ko",
+        "previewLink": "http://books.google.co.kr/books?id=fdLACwAAQBAJ&printsec=frontcover&dq=%EC%97%AD%EC%82%AC&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fdLACwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fdLACwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "KR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 300,
+          "currencyCode": "KRW"
+        },
+        "retailPrice": {
+          "amount": 270,
+          "currencyCode": "KRW"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fdLACwAAQBAJ&rdid=book-fdLACwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 300000000,
+              "currencyCode": "KRW"
+            },
+            "retailPrice": {
+              "amountInMicros": 270000000,
+              "currencyCode": "KRW"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "KR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.kr/books/download/%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C_%EC%9D%BD%EB%8A%94_%EA%B7%B8%EB%82%A0%EC%9D%98_%EC%97%AD%EC%82%AC_7-sample-epub.acsm?id=fdLACwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.kr/books/download/%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C_%EC%9D%BD%EB%8A%94_%EA%B7%B8%EB%82%A0%EC%9D%98_%EC%97%AD%EC%82%AC_7-sample-pdf.acsm?id=fdLACwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fdLACwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "매일매일 일어나는 사건이 역사가 된다 그날의 역사를 그날그날 읽어 보며 교양을 쌓는 책 역사란 무엇일까? 우리는 왜 역사를 알아야 할까? 왜 ‘역사를 모르는 민족에게 내일은 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RsAFMwEACAAJ",
+      "etag": "HBVvKrwdS2Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RsAFMwEACAAJ",
+      "volumeInfo": {
+        "title": "역사민속학 4",
+        "authors": [
+          "한국역사민속학회"
+        ],
+        "publishedDate": "1994-11-01",
+        "description": "영남지방 전통거주문화에 관한 연구를 비롯해 민속 학 관련 논문, 서평, 연구동향 등을 수록한 학회지.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8943300689"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788943300685"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ko",
+        "previewLink": "http://books.google.co.kr/books?id=RsAFMwEACAAJ&dq=%EC%97%AD%EC%82%AC&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.kr/books?id=RsAFMwEACAAJ&dq=%EC%97%AD%EC%82%AC&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%EC%97%AD%EC%82%AC%EB%AF%BC%EC%86%8D%ED%95%99_4.html?hl=&id=RsAFMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "KR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RsAFMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OD-wAwAAQBAJ",
+      "etag": "H5OGcGDU4a4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OD-wAwAAQBAJ",
+      "volumeInfo": {
+        "title": "칼날 위에 세운 나라 -최충헌(역사를 바꾼 인물 인물를 키운 역사_032)",
+        "authors": [
+          "역사 인물 편찬 위원회"
+        ],
+        "publisher": "역사디딤돌",
+        "publishedDate": "2010-03-30",
+        "description": "어린이는 물론이고 청소년, 그리고 일반인들까지 부담 없이 읽고 폭넓게 공감할 수 있는 역사적 인물과 사건들을 중심으로 구성한「역사를 바꾼 인물ᆞ인물을 키운 역사 시리즈」『칼날 위에 세운 나라-최충헌』편. 1백 년간 이어진 최씨 무신 정권은 고려의 지배 세력이 가문 위주의 문벌 귀족에서 관료적 성향이 짙은 권문세족으로 발전해 가는 출발점이 되었다. 반면, 고려를 몹시 위태롭게 만들기도 하였다. 이 책에서는 최충헌을 필두로, 1백 년간 이어진 최씨 무신 정권을 조명하고 있다.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788993930191"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8993930198"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 157,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OD-wAwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OD-wAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ko",
+        "previewLink": "http://books.google.co.kr/books?id=OD-wAwAAQBAJ&dq=%EC%97%AD%EC%82%AC&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OD-wAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OD-wAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "KR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5950,
+          "currencyCode": "KRW"
+        },
+        "retailPrice": {
+          "amount": 5355,
+          "currencyCode": "KRW"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OD-wAwAAQBAJ&rdid=book-OD-wAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5950000000,
+              "currencyCode": "KRW"
+            },
+            "retailPrice": {
+              "amountInMicros": 5355000000,
+              "currencyCode": "KRW"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "KR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OD-wAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "어린이는 물론이고 청소년, 그리고 일반인들까지 부담 없이 읽고 폭넓게 공감할 수 있는 역사적 인물과 사건들을 중심으로 구성한「역사를 바꾼 인물ᆞ인물을 키운 역사 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zl3coAEACAAJ",
+      "etag": "00qJpH6YVQI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zl3coAEACAAJ",
+      "volumeInfo": {
+        "title": "살아있는 인물 열어가는 역사. 1: 단군에서 담징까지",
+        "authors": [
+          "모난돌역사논술모임"
+        ],
+        "publishedDate": "2013-12-10",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8996342424"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788996342427"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ko",
+        "previewLink": "http://books.google.co.kr/books?id=zl3coAEACAAJ&dq=%EC%97%AD%EC%82%AC&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.kr/books?id=zl3coAEACAAJ&dq=%EC%97%AD%EC%82%AC&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EC%9D%B8%EB%AC%BC_%EC%97%B4%EC%96%B4%EA%B0%80%EB%8A%94_%EC%97%AD%EC%82%AC.html?hl=&id=zl3coAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "KR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zl3coAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

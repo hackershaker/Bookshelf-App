@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookShelf</string>
+    <string name="main_screen_title">Google북스 탐색</string>
+    <string name="main_screen_image_description">Main screen book image</string>
+    <string name="main_screen_searchbar_label">찾고싶은 서적 검색!</string>
+    <string name="main_screen_search_button_text">검색</string>
+</resources>
