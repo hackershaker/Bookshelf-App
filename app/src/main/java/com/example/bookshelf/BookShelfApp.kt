@@ -33,7 +33,6 @@ fun BookShelfApp(viewModel: LibraryViewModel) {
     val uiState = viewModel.bookUiState.collectAsState()
     val navController = rememberNavController()
     val snackbarHostState = remember { SnackbarHostState() }
-    val scope = rememberCoroutineScope()
     val text: MutableState<String> = rememberSaveable { mutableStateOf("") }
     val coroutineScope = rememberCoroutineScope()
 
@@ -46,7 +45,7 @@ fun BookShelfApp(viewModel: LibraryViewModel) {
                 snackbarHostState.currentSnackbarData?.dismiss()
                 Log.d(TAG, "snackbar triggered")
                 snackbarHostState.showSnackbar(
-                    message = "검색어를 입력해주세요.",
+                    message = "검색어를 입력해 주세요.",
                     actionLabel = "닫기",
                     duration = SnackbarDuration.Short,
                 )
